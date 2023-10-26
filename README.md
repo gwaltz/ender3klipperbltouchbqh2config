@@ -1,1 +1,1 @@
-# ender3kbltouchlipperconfig
+# ender3bltouchklipperconfig
