@@ -1,1 +1,1 @@
-# ender3klipperconfic
+# ender3klipperconfig
